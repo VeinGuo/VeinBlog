@@ -81,5 +81,5 @@ theme: even
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   - type: git
-    repo: git@github.com:VeinGuo/VeinGuo.github.io.git
+    repo: https://github.com/VeinGuo/VeinGuo.github.io.git
     branch: master
