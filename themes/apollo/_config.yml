@@ -1,0 +1,21 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    Weibo: http://weibo.com/woshirucichenlun
+    GitHub: https://github.com/VeinGuo
+    Rss: /atom.xml
+
+favicon: /favicon.png
+logo: /favicon.png
+
+# Comment
+# e.g disqus: seansun
+disqus: gwrcode
+duoshuo:
+
+# Analytics
+# google-analytics:
+ga: UA-90661596-1
+
+# Copyright Infomation
+startyear: 2016
