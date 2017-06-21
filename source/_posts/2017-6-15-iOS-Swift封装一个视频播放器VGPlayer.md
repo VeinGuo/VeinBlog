@@ -8,8 +8,6 @@
 - GitHub地址：[VGPlayer](https://github.com/VeinGuo/VGPlayer)
 - 有什么意见建议可以提 issues,在博文下留言，如果觉得不错，欢迎点star。
 
-<!-- more -->
-
 ## \# 演示
 
 ![demo1.gif](http://upload-images.jianshu.io/upload_images/3672149-8d4002b808f1637d.gif?imageMogr2/auto-orient/strip)
@@ -17,6 +15,7 @@
 
 ![demo2.gif](http://upload-images.jianshu.io/upload_images/3672149-d7eb8ea47b03b5e4.gif?imageMogr2/auto-orient/strip)
 
+<!-- more -->
 
 ## \# 功能
 - 集成了视频播放器常有的手势，包括单击显示控制视图，双击暂停，水平滑动快进、后退，竖直滑动亮度和音量调节。
